@@ -1,16 +1,6 @@
 
 <h1 align="center">Billing_Software</h1>
-<h3 align="center">This is a basic version of my advance billing software programmed in python.</h3>
-
- I’m currently working on **AI/ML-Python**
-
-- 🌱 I’m currently learning **Java, React, Startups**
-
-- 💬 Ask me about **Tech, Business, Growth, Spirituality**
-
-- 📫 How to reach me **talk.himanshsharma@gmail.com**
-
-- ⚡ Fun Fact **Live because we die in the end**<br>
+<h3 align="center"></a>This is a basic version of my advance billing software programmed in python.</h3>
 
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
