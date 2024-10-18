@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import json
 import os
+import numpy
 
 class Product:
     def init(self, name, price):
